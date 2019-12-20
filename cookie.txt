@@ -1,0 +1,10 @@
+#LWP-Cookies-2.0
+Set-Cookie3: BIGipServerotn="955253258.24610.0000"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: BIGipServerpool_passport="250413578.50215.0000"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: JSESSIONID=1133709064AF45654229A1B819051785; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: RAIL_DEVICEID="UwgTAsb9XfZvgM4E-dgA5HyWQOnD9kEfTl_eiw2tEtiKM4BF6FzyBZbfkcA2AdqdHYODXopVnVMW8NFPtBnk7jGKy1RtCCojx0NtJ9T904RmCdjmnuUMiDyyHzixP8mqcHfh4mtDHI2Am0vV_F43kkLm-hTaaZ0W"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: RAIL_EXPIRATION=1577108017746; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: _passport_session=c0b36ac5c6254d4d95dd78828f934a846139; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: route=9036359bb8a8a461c164a04f8f50b252; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: tk="oOEu-ycW2_RqSQ8BRTbBlX97mO_I4Sh4m9MtBg27j1j0"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: uamtk="RIaxLdb1cs1-TysBpa3BJgGOA2XCcg0YqbM9nwqrj1j0"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
